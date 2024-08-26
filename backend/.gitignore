@@ -1,0 +1,28 @@
+# Node modules
+node_modules
+
+# Package lock file
+package-lock.json
+
+# Environment variables
+.env
+
+# Build artifacts
+/dist
+/build
+
+# Log files
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.sln
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
